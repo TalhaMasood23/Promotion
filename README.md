@@ -21,7 +21,7 @@ Follow the steps below to clone this project to your local machine:
 First, you need to clone the project repository from GitHub to your local machine. Use the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/promotion.git
+git clone https://github.com/TalhaMasood23/Promotion.git
 Make sure to replace yourusername with your actual GitHub username.
 
 2. Extract the Folder (if downloaded as ZIP)
