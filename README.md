@@ -67,6 +67,6 @@ Thanks for your support! 🚀
 
 project_images:
 
-![project_images1](1.png)
-![project_images2](2.png)
-![project_images3](3.png)
+![project_images1](<img width="960" alt="Screenshot 2025-03-10 093836" src="https://github.com/user-attachments/assets/578b9250-7316-4aa8-8f3a-2364e042c39e" />)
+![project_images2](<img width="957" alt="Screenshot 2025-03-10 093900" src="https://github.com/user-attachments/assets/04353c43-264e-4c6d-b960-282ae8a733c7" />)
+![project_images3](<img width="959" alt="Screenshot 2025-03-10 093920" src="https://github.com/user-attachments/assets/a0a9e853-62fa-4b75-8f00-3df91fd31fc8" />)
