@@ -67,6 +67,6 @@ Thanks for your support! 🚀
 
 project_images:
 
-![Alt text](images/1.png)
-![Alt text](images/2.png)
-![Alt text](images/3.png)
+![project_images1](1.png)
+![project_images2](2.png)
+![project_images3](3.png)
