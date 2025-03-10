@@ -64,3 +64,5 @@ The project folder contains the following structure:
 If you found this project useful, please consider giving it a star and following me on GitHub to stay updated on future improvements!
 
 Thanks for your support! 🚀
+
+images:
